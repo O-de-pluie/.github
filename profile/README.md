@@ -1,13 +1,11 @@
-## Hi there 👋
+## Hi there 👋 <!-- omit from toc -->
 Thank you for watching our organization. Please take a moment to read this readme to find out what the organization is working on, follow the links below to discover our project, and [contact us](#contributors) if you have a suggestion to make!
 ___
-## Summary
-- [Hi there 👋](#hi-there-)
-- [Summary](#summary)
+## Summary <!-- omit from toc -->
 - [Who are we ?](#who-are-we-)
 - [What is the project ?](#what-is-the-project-)
-- [How work our solution ?](#how-work-our-solution-)
-- [Usefull links](#usefull-links)
+- [How does our solution work ?](#how-does-our-solution-work-)
+- [Useful links](#useful-links)
 - [Contributors](#contributors)
 ___
 ## Who are we ?
@@ -16,10 +14,10 @@ ___
 ## What is the project ?
 Our project first objective is to let people know where the rain water run off. It will shown where are rain water accumulations points on a map. With these informations, you have the possibility to know where are floods risks, that can be usefull for collectivity. Moreover, we can set water tanks spot to keep the rain water, and use it as you want.
 ___
-## How work our solution ?
+## How does our solution work ?
 We collect a lot of information about the topology and the wheather condition to find the best prediction of accumulation water.
 ___
-## Usefull links
+## Useful links
 ***Nothing for the moment.***
 ___
 ## Contributors
