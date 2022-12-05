@@ -1,5 +1,5 @@
 ## Hi there 👋
-Thank you for watching our organization. Please take a moment to read this readme to find out what the organization is working on, follow the links below to discover our project, and [contact us](mailto:thomas.prudhomme@epitech.eu) if you have a suggestion to make!
+Thank you for watching our organization. Please take a moment to read this readme to find out what the organization is working on, follow the links below to discover our project, and [contact us](#contributors) if you have a suggestion to make!
 ___
 ## Summary
 - [Hi there 👋](#hi-there-)
@@ -27,7 +27,7 @@ ___
 [Lucas Tesnier](mailto:lucas.tesnier@epitech.eu)\
 [Tom Duval-Mahe](mailto:tom.duval-mahe@epitech.eu)\
 [Simon Le Fourn](mailto:simon.lefourn@epitech.eu)\
-[Mattis Lesur](mailto:mattis.lesur@epitech.eu)\
+[Matthis Lesur](mailto:matthis.lesur@epitech.eu)\
 [Noa Leclaire](mailto:noa.leclaire@epitech.eu)\
 [Thomas Prud'homme](mailto:thomas.prudhomme@epitech.eu)
 ___
