@@ -9,13 +9,13 @@ ___
 - [Contributors](#contributors)
 ___
 ## Who are we ?
-Basically, we are Epitech students. But, we are more than it. We are students who are working on an innovating project for our formation, project named ***EIP*** for ***E***pitch ***I***nnovation ***P***roject.
+Basically, we are Epitech students. But, we are more than that. We are students who are working on an innovating project for the purpose of our formation, project named ***EIP*** for ***E***pitch ***I***nnovation ***P***roject.
 ___
 ## What is the project ?
-Our project first objective is to let people know where the rain water run off. It will shown where are rain water accumulations points on a map. With these informations, you have the possibility to know where are floods risks, that can be usefull for collectivity. Moreover, we can set water tanks spot to keep the rain water, and use it as you want.
+Our project first objective is to let people know where the rain water run off. It will show where are rain water accumulations points on a map. With these informations, you have the possibility to know where are floods risks, that can be useful for collectivities. Moreover, we can set water tanks spot to keep the rain water, and use it as you want.
 ___
 ## How does our solution work ?
-We collect a lot of information about the topology and the wheather condition to find the best prediction of accumulation water.
+We collect a lot of information about the topology and the wheather conditions to find the best prediction of accumulations water.
 ___
 ## Useful links
 ***Nothing for the moment.***
